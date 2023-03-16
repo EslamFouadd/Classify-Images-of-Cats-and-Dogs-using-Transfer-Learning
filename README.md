@@ -11,4 +11,4 @@ What you'll do
 3. Use a pre-trained model for feature extraction
 4. Fine-tune a pre-trained model
 
-![Result](https://ibb.co/swBGTN8)
+![Result](https://i.ibb.co/587yQSb/Results.png)
